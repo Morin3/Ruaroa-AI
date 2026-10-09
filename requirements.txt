@@ -78,7 +78,7 @@ fastai
 gym
 optuna
 transformers
-datasets==2.1.0
+datasets==5.0.1
 torchmetrics
 pytorch-lightning
 sympy
