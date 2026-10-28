@@ -1,5 +1,5 @@
 # Ruaroa AI requirements
-black==24.3.0
+black==26.10.1
 funcy==2.0
 humanize==4.8.0
 jsonschema==4.19.2
